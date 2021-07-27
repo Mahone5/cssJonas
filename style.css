@@ -5,7 +5,7 @@
 /* Page sections */
 body {
   color: #444;
-  font-family: san-serif;
+  font-family: Arial, Helvetica, sans-serif;
   border-top: #1098ad solid 10px;
   position: relative;
 }
@@ -230,7 +230,7 @@ h2 {
 /* AFTER SELECTOR */
 h2::after {
   /* An after pseudo element must have content, even if empty "" */
-  content: "TOP";
+  content: 'TOP';
   background-color: #ffe70e;
   color: #444;
   font-size: 16px;
