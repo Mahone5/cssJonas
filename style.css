@@ -29,6 +29,11 @@ body {
   margin-bottom: 40px;
 }
 
+nav {
+  font-size: 18px;
+  text-align: center;
+}
+
 article {
   margin-bottom: 60px;
 }
